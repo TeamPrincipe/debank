@@ -567,14 +567,4 @@ class Wallet :
 
 
 
-wallet = Wallet()
-test = wallet.get_user_token_list("0x1223D1B5D7Bc6049e1A4E7e60079803496E73029", 'ftm')
-
-
-
-
-
-
-
-
 
